@@ -16,7 +16,7 @@ AI InferenceFramework • AI Compiler (MLIR/LLVM) • Embedded Development
 ## 📊 Stats
 
 <div align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=sdh1014&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sdh1014&hide_border=true&bg_color=ffffff&color=24292e&title_color=24292e&line=0969da&point=24292e&area=true&area_color=0969da" />
   <img height="160" src="https://github-readme-stats-ten-rose.vercel.app/api?username=sdh1014&show_icons=true&hide_border=true&show=prs_merged,prs_merged_percentage,reviews&cache_seconds=86400" />
   <img height="160" src="https://github-readme-stats-ten-rose.vercel.app/api/top-langs/?username=sdh1014&layout=compact&hide_border=true&cache_seconds=86400" />
 </div>
